@@ -1,0 +1,15 @@
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\obj\Debug\net6.0\Calculadora.Servicio.csproj.AssemblyReference.cache
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\obj\Debug\net6.0\Calculadora.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\obj\Debug\net6.0\Calculadora.Servicio.AssemblyInfoInputs.cache
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\obj\Debug\net6.0\Calculadora.Servicio.AssemblyInfo.cs
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\obj\Debug\net6.0\Calculadora.Servicio.csproj.CoreCompileInputs.cache
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\bin\Debug\net6.0\Calculadora.Servicio.deps.json
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\bin\Debug\net6.0\Calculadora.Servicio.dll
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\bin\Debug\net6.0\Calculadora.Servicio.pdb
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\bin\Debug\net6.0\Calculadora.Repositorio.dll
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\bin\Debug\net6.0\Calculadora.Repositorio.pdb
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\obj\Debug\net6.0\Calculadora.Servicio.csproj.CopyComplete
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\obj\Debug\net6.0\Calculadora.Servicio.dll
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\obj\Debug\net6.0\refint\Calculadora.Servicio.dll
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\obj\Debug\net6.0\Calculadora.Servicio.pdb
+C:\proyectosCSharp\PrimerParcial\Calculadora.Servicio\obj\Debug\net6.0\ref\Calculadora.Servicio.dll

@@ -1,0 +1,98 @@
+﻿@model IEnumerable<Calculadora.Repositorio.Entidades.Resultados>
+
+@{
+    ViewData["Title"] = "Listar";
+}
+
+<h1>Listar</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Calculo 
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Base)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Altura)
+            </th>
+            <th>
+                =
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Resultado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@{ int ultimoRegistro = @Model.Count();}
+@foreach (var item in Model) {
+
+            <tr>
+                <td>
+                    @{
+                        if (item.Id == ultimoRegistro)
+                        {
+                            <b>Calculo @Html.DisplayFor(modelItem => item.Id)</b>
+                        }
+                        else {
+                            <p>Calculo @Html.DisplayFor(modelItem => item.Id)</p>
+                        }
+                    }
+                </td>
+                <td>
+                    @{
+                        if (item.Id == ultimoRegistro)
+                        {
+                            <b>@Html.DisplayFor(modelItem => item.Base)</b>
+                        }
+                        else
+                        {
+                            <p>@Html.DisplayFor(modelItem => item.Base)</p>
+                        }
+                    }
+                </td>
+                <td>
+                    @{
+                        if (item.Id == ultimoRegistro)
+                        {
+                            <b>@Html.DisplayFor(modelItem => item.Altura)</b>
+                        }
+                        else
+                        {
+                            <p>@Html.DisplayFor(modelItem => item.Altura)</p>
+                        }
+                    }
+                </td>
+                <td>
+                    @{
+                        if (item.Id == ultimoRegistro)
+                        {
+                            <b>=</b>
+                        }
+                        else
+                        {
+                            <p>=</p>
+                        }
+                    }
+                </td>
+                <td>
+                    @{
+                        if (item.Id == ultimoRegistro)
+                        {
+                            <b>@Html.DisplayFor(modelItem => item.Resultado)</b>
+                        }
+                        else
+                        {
+                            <p>@Html.DisplayFor(modelItem => item.Resultado)</p>
+                        }
+                    }
+                </td>
+        </tr>
+    }
+    </tbody>
+</table>

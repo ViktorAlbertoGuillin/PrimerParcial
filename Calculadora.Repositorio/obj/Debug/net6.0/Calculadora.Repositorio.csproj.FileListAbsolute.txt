@@ -1,0 +1,12 @@
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\bin\Debug\net6.0\Calculadora.Repositorio.deps.json
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\bin\Debug\net6.0\Calculadora.Repositorio.dll
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\bin\Debug\net6.0\Calculadora.Repositorio.pdb
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\obj\Debug\net6.0\Calculadora.Repositorio.csproj.AssemblyReference.cache
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\obj\Debug\net6.0\Calculadora.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\obj\Debug\net6.0\Calculadora.Repositorio.AssemblyInfoInputs.cache
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\obj\Debug\net6.0\Calculadora.Repositorio.AssemblyInfo.cs
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\obj\Debug\net6.0\Calculadora.Repositorio.csproj.CoreCompileInputs.cache
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\obj\Debug\net6.0\Calculadora.Repositorio.dll
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\obj\Debug\net6.0\refint\Calculadora.Repositorio.dll
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\obj\Debug\net6.0\Calculadora.Repositorio.pdb
+C:\proyectosCSharp\PrimerParcial\Calculadora.Repositorio\obj\Debug\net6.0\ref\Calculadora.Repositorio.dll

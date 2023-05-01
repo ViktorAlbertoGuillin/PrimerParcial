@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculadora.Servicio/1.0.0": {
+        "dependencies": {
+          "Calculadora.Repositorio": "1.0.0"
+        },
+        "runtime": {
+          "Calculadora.Servicio.dll": {}
+        }
+      },
+      "Calculadora.Repositorio/1.0.0": {
+        "runtime": {
+          "Calculadora.Repositorio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora.Servicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculadora.Repositorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
