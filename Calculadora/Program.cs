@@ -6,11 +6,12 @@ using Calculadora.Servicio.Interfaces;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation(); 
 
 // My services to the container.
 builder.Services.AddSingleton<ICalculadoraServicio, CalculadoraServicio>();
 builder.Services.AddSingleton<ICalculadoraRepositorio, CalculadoraRepositorio>();
+//builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
 var app = builder.Build();
 

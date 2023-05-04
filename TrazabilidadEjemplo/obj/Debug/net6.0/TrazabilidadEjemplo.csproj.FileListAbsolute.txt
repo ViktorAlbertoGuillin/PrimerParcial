@@ -1,0 +1,15 @@
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\bin\Debug\net6.0\TrazabilidadEjemplo.exe
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\bin\Debug\net6.0\TrazabilidadEjemplo.deps.json
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\bin\Debug\net6.0\TrazabilidadEjemplo.runtimeconfig.json
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\bin\Debug\net6.0\TrazabilidadEjemplo.dll
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\bin\Debug\net6.0\TrazabilidadEjemplo.pdb
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\obj\Debug\net6.0\TrazabilidadEjemplo.csproj.AssemblyReference.cache
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\obj\Debug\net6.0\TrazabilidadEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\obj\Debug\net6.0\TrazabilidadEjemplo.AssemblyInfoInputs.cache
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\obj\Debug\net6.0\TrazabilidadEjemplo.AssemblyInfo.cs
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\obj\Debug\net6.0\TrazabilidadEjemplo.csproj.CoreCompileInputs.cache
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\obj\Debug\net6.0\TrazabilidadEjemplo.dll
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\obj\Debug\net6.0\refint\TrazabilidadEjemplo.dll
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\obj\Debug\net6.0\TrazabilidadEjemplo.pdb
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\obj\Debug\net6.0\TrazabilidadEjemplo.genruntimeconfig.cache
+C:\proyectosCSharp\PrimerParcial\TrazabilidadEjemplo\obj\Debug\net6.0\ref\TrazabilidadEjemplo.dll
