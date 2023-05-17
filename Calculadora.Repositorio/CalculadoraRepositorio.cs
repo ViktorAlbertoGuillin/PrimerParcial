@@ -24,7 +24,7 @@ namespace Calculadora.Repositorio
         }
         public void GuardarResultados(Resultados resultados)
         {
-            int? idUltimo = ObtenerUltimoId();
+            int idUltimo = ObtenerUltimoId();
             idUltimo++;
             resultados.Id = (int)idUltimo;
             CalculadoraPseudoDatabase.GetResultados().Add(resultados);
